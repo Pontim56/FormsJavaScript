@@ -11,6 +11,7 @@
     justify-content:space-evenly ;
     
     color: rgb(109, 184, 122);
+    
 }
 .espaco{
     background-image: linear-gradient(rgb(32, 19, 19),rgb(49, 31, 66));
@@ -68,4 +69,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+p:hover{
+    cursor:default;
+}
+input{
+    background-color: rgb(87, 76, 124);
+    color: white;
 }
