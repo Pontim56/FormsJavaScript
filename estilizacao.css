@@ -18,7 +18,8 @@
     border-radius: 8%;
     border: 2px solid;
 
-    width: 20%;
+    /* width: 20%; */
+    width: 16rem;
     height: 45%;
 
     display: flex;
@@ -52,7 +53,9 @@
     border-radius: 8%;
     border: 2px solid;
 
-    width: 12%;
+    /* width: 12%; */
+
+    width: 9rem;
     height: 20%;
 
     display: flex;
