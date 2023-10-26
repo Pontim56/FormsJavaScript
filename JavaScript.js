@@ -8,7 +8,7 @@ function enviar(event){
     let valorMetro = parseFloat(document.getElementById("prc").value);   
     let area = lado1*lado2;
     let precoTot = area*valorMetro;
-    document.getElementById("p1").innerText="Área:"+area;
-    document.getElementById("p2").innerText="Preço total:"+precoTot;
+    document.getElementById("p1").innerText="Área: "+area;
+    document.getElementById("p2").innerText="Preço total: "+precoTot;
 
 }
