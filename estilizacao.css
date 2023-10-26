@@ -12,6 +12,7 @@
     
     color: rgb(109, 184, 122);
     
+    box-sizing: border-box;
 }
 .espaco{
     background-image: linear-gradient(rgb(32, 19, 19),rgb(49, 31, 66));
@@ -47,6 +48,10 @@
 }
 #butt:hover{
     cursor: pointer;
+}
+#butt{
+    background-color:rgb(109, 184, 122) ;
+    border: 2px solid black;
 }
 #textos{
     background-image: linear-gradient(rgb(32, 19, 19),rgb(49, 31, 66));
