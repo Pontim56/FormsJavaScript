@@ -43,11 +43,9 @@
     justify-content: center;
     width: 100%;
 }
-
 #butt:hover{
     cursor: pointer;
 }
-
 #textos{
     background-image: linear-gradient(rgb(32, 19, 19),rgb(49, 31, 66));
     border-radius: 8%;
